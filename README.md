@@ -2,7 +2,7 @@
 
 https://w286432531.github.io/
 
-•CSS, SASS •Responsive Design • JavaScript, jQuery •Bootstrap •WordPress •Node.js •Asp.net core •SQL, NoSQL •REST API •AJAX •Express.js •PHP •Python •Database Structure Development •Agile Development •API Development •Git and Version Control • Test-driven Development
+•CSS, SASS •Responsive Design • JavaScript, jQuery •Bootstrap •WordPress •React •Node.js •Asp.net core •SQL, NoSQL •REST API •AJAX •Express.js •PHP •Python •Database Structure Development •Agile Development •API Development •Git and Version Control • Test-driven Development
 
 <!---
 w286432531/w286432531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
